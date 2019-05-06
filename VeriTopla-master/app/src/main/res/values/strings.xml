@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Veri Topla</string>
+    <string name="bilgitv">BAŞLAMAYA HAZIRIZ!!</string>
+    <string name="baslatbtn">BAŞLAT</string>
+    <string name="kaydetbtn">KAYDET</string>
+    <string name="videoKayıt">Video Kayıt</string>
+    <string name="konumBilgisi">Konum Bilgisi</string>
+</resources>
